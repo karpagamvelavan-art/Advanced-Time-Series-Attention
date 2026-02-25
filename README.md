@@ -1,4 +1,3 @@
-# Advanced-Time-Series-Attention
 # Advanced Time Series Forecasting with Attention
 
 ## Overview
@@ -13,4 +12,4 @@ for complex multi-seasonal time series forecasting.
 - Attention interpretation
 
 ## Result
-Attention model improved RMSE over baseline.
+Attention model improved RMSE over baselin
